@@ -1,0 +1,3 @@
+# ignore test1.txt files
+
+test1.txt
